@@ -1,0 +1,7 @@
+<form method="Post">
+Name:<input type="text" name="name" placeholder="name"><br>
+Email:<input type="email" name="email" placeholder="Email"><br>
+Password:<input type="password" name="password" placeholder="Password"><br>
+<input type="submit" value="submit"><br>
+</form>
+
